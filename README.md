@@ -19,22 +19,25 @@ This project demonstrates how Power BI transforms raw sales data into meaningful
 
 ### 1. Sales Overview
 
-
+![Image1](Page1.png)
 
 ---
 
 ### 2. Sales Comparison
 
+![Image2](Page2.png)
 
 
 ---
 
 ### 3. Detailed Analysis
+![Image3](Page3.png)
 
 
 ---
 
 ### 4. Interactive Report
+![Image4](Page4.png)
 
 
 
