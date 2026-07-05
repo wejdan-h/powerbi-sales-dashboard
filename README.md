@@ -19,7 +19,7 @@ This project demonstrates how Power BI transforms raw sales data into meaningful
 
 ### 1. Sales Overview
 
-![Image1](Page1..jpg)
+![Image1](Page1.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ This project demonstrates how Power BI transforms raw sales data into meaningful
 ---
 
 ### 3. Detailed Analysis
-![Image3](Page3.jpg)
+![Image3](Page3..jpg)
 
 
 ---
@@ -57,7 +57,6 @@ This project demonstrates how Power BI transforms raw sales data into meaningful
 ## Tools & Technologies
 
 - Microsoft Power BI Desktop
-- Power Query
 - Data Visualization
 - Dashboard Design
 
